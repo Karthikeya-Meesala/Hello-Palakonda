@@ -5,12 +5,12 @@ function validateEmail(email) {
 }
 
 var config = {
-    apiKey: "AIzaSyDb5VV7bAnGv7DRJXaJxGHZemTPwk4oQZ4",
-    authDomain: "collectmails-74fd4.firebaseapp.com",
-    databaseURL: "https://collectmails-74fd4-default-rtdb.firebaseio.com/",
-    projectId: "collectmails-74fd4",
+    apiKey: "AIzaSyDtHHb1w2ZfXnen56ljlurv6O49pjFc_3k",
+    authDomain: "email-58e69.firebaseapp.com",
+    databaseURL: "https://email-58e69-default-rtdb.firebaseio.com/",
+    projectId: "email-58e69",
     storageBucket: "collectmails-74fd4.appspot.com",
-    messagingSenderId: "266138946776"
+    messagingSenderId: "296383297219"
 };
 firebase.initializeApp(config);
 var db = firebase.firestore();
